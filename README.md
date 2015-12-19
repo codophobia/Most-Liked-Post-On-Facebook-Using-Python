@@ -10,7 +10,7 @@ Requirements:
 
 * Use python 2.7 or higher.
 
-You will also be asked to enter the number of posts you want to scan from beginning of your wall. The more posts to sacn, more time it takes. Finally, you wil get a link to the most liked post among the posts you scanned.
+You will also be asked to enter the number of posts you want to scan from beginning of your wall. The more posts to scan, more time it takes. Finally, you wil get a link to the most liked post among the posts you scanned.
   
 
 
